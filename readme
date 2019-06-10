@@ -8,11 +8,20 @@ npm start , for run after customization
 u can set a domain name in apache site-available to a port that ORM listen to it:
 
 <VirtualHost *:80>
-    ServerAdmin admin@maxim.shop
-ServerName maxim.shop
-     ServerAlias orm.maxim.shop
+     ServerAdmin admin@example.com
+     DocumentRoot /var/www/html/wordpress/
+     ServerName telnet.center
+     ServerAlias www.telnet.center
 
-    ProxyPreserveHost On
+     #<Directory /var/www/html/wordpress/>
+      #  Options +FollowSymlinks
+       # AllowOverride All
+        #Require all granted
+    # </Directory>
+
+     #ErrorLog ${APACHE_LOG_DIR}/error.log
+     #CustomLog ${APACHE_LOG_DIR}/access.log combined
+ProxyPreserveHost On
 
     # setup the proxy
     <Proxy *>
