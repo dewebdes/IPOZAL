@@ -1,2 +1,25 @@
+WEB Version:
+need apache2 & PHP 7.2 Host
 found undefined urls from ico folder, correct paths and urls
+
+ORM:
+npm install , after extracting files
+npm start , for run after customization
+u can set a domain name in apache site-available to a port that ORM listen to it:
+
+<VirtualHost *:80>
+    ServerAdmin admin@maxim.shop
+ServerName maxim.shop
+     ServerAlias orm.maxim.shop
+
+    ProxyPreserveHost On
+
+    # setup the proxy
+    <Proxy *>
+        Order allow,deny
+        Allow from all
+    </Proxy>
+    ProxyPass / http://localhost:6907/
+    ProxyPassReverse / http://localhost:6907/
+</VirtualHost>
 
