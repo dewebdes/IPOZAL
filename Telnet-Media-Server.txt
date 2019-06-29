@@ -1,0 +1,33 @@
+For browser test:
+
+1. go to https://media.telnet.center:1070/
+2. the certificates of this domain are selfed-sign and you need to trust and procced them 
+3. open your browser developer console and if any address is block then open its url in new tab and make the address trusted
+4. click on "add stream" link
+5. if you want to create audio stream just tick the audio checkbox
+6. if you want to create video stream the tick both checkboxes
+7. click on "start stream" button 
+8. after few seconds a new link must be added to "streams list"
+9. to visit each stream click on links below "streams list"
+10. its better to see streams on another device
+
+
+
+For mobile test:
+
+1. download APK file from http://176.9.28.69/and/ipozal21.apk
+2. after install and run the app, grant requested permissions that app can work correctly
+3. new streams will be accessable for all connected clients with any device
+
+
+For server config:
+
+1. visit https://github.com/dewebdes/IPOZAL/blob/master/Media-Server-Help.txt
+
+
+For future develop:
+
+1. base on your project scenario and the clients connectivity time and connections number the conversion and transfer engine can be customized
+
+ 
+
