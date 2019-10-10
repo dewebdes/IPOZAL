@@ -31,7 +31,7 @@ There is an under develop repo name <a href="https://github.com/dewebdes/ZeroPen
 </ul>
 <br><br>
 <h2>Users Data Entry Mode</h2>
-Users download their template engine base on select bussiness category and after edit the template upload it to server via an attachment in email. read more <a href="https://www.linkedin.com/pulse/prohosting-automate-apis-mail-kevin-eyni/">Automate Via Email</a>
+Users download their template engine base on selected bussiness category and after edit the template upload it to server via an attachment in email. read more <a href="https://www.linkedin.com/pulse/prohosting-automate-apis-mail-kevin-eyni/">Automate Via Email</a>
 <br><br>     
 <h2>SPONSORSHIP</h2>
 I have all the Knowledge, but have not enough money & time for develop it by my self and will be glad to have a sponsor :)
