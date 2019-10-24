@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/dewebdes/IPOZAL/master/ipozalbrand.PNG" />
 <h1>MAX POSSIBLE SPEED, SECURITY, SEO, RANK & BIGDATA</h1>
 <br>
 <h2>The IDEA</h2>
