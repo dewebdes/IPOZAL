@@ -1,3 +1,5 @@
+<a href='https://www.linkedin.com/company/31452820' target='_blank'><img src='https://github.com/dewebdes/IPOZAL/blob/master/ipozal-desk-1.jpeg' /></a>
+<hr />
 <img src="https://raw.githubusercontent.com/dewebdes/IPOZAL/master/ipozalbrand.PNG" />
 <h1>MAX POSSIBLE SPEED, SECURITY, SEO, RANK & BIGDATA</h1>
 <br>
